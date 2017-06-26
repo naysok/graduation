@@ -33,12 +33,12 @@ git push origin master プッシュ
 <-- ここから卒論 -->
 #### ジェネ系の洗い出し  
 - アルゴリズミック・デザイン （日本建築学会 編） // 今ここ  
--
-
+- Rhinoceros add-on Forum  
+- shape optimization tech by autodesk  
 
 #### 理論、アルゴリズムの検討  
 - グレッグ・リンのエッセイ // 読みにくい  
--   
+- パラメトリシズム // 英語文献
 
 <-- ここまで卒論 -->  
 
@@ -46,7 +46,7 @@ git push origin master プッシュ
 
 <-- ここから卒論 -->  
 #### 実装  
-- 先に起こったリサーチに基づき、 C# 、 C++ もしく Python でツールキット化する  
+- 先に起こったリサーチに基づき、 C# 、 C++ もしく Python でツールキット（ライブラリ）化する  
 
 
 <-- ここまで卒制 -->  
@@ -55,4 +55,19 @@ git push origin master プッシュ
 &nbsp;  
 
 ##  ジェネ系の洗い出しより  
+
+&nbsp;
+
+- アルゴリズミック・デザイン （日本建築学会 編）  
+  -  
+
+- Rhinoceros add-on Forum  
+  - [kangaroo (physic sim)](http://www.grasshopper3d.com/group/kangaroo)  
+    - hoge
+  - [millipdede (optimization)](http://www.grasshopper3d.com/group/millipede)  
+    - hoge
+- shape optimization tech by autodesk  
+  - [what is](https://www.autodesk.com/solutions/generative-design)  
+    - [test (Fusion360)](https://www.youtube.com/watch?v=ItiezmZg5cY)
+
 

@@ -31,7 +31,7 @@ git push origin master プッシュ
 ## 卒論から卒制に向けた流れ  
 &nbsp;  
 <-- ここから卒論 -->
-#### ジェネ系の洗い出し  
+#### ジェネ系資料の洗い出し  
 - アルゴリズミック・デザイン （日本建築学会 編） // 今ここ  
 - Rhinoceros add-on Forum  
 - shape optimization tech by autodesk  
@@ -44,7 +44,7 @@ git push origin master プッシュ
 
 &nbsp;
 
-<-- ここから卒論 -->  
+<-- ここから卒制 -->  
 #### 実装  
 - 先に起こったリサーチに基づき、 C# 、 C++ もしく Python でツールキット（ライブラリ）化する  
 
@@ -54,7 +54,7 @@ git push origin master プッシュ
 &nbsp;  
 &nbsp;  
 
-##  ジェネ系の洗い出しより  
+##  ジェネ系資料の洗い出しより  
 
 &nbsp;
 

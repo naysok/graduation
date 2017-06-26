@@ -55,11 +55,10 @@ git push origin master プッシュ
 &nbsp;  
 
 ##  ジェネ系資料の洗い出しより  
-
 &nbsp;
 
 - アルゴリズミック・デザイン （日本建築学会 編）  
-  -  
+  - hoge  
 
 - Rhinoceros add-on Forum  
   - [kangaroo (physic sim)](http://www.grasshopper3d.com/group/kangaroo)  

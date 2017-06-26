@@ -14,7 +14,6 @@ git push origin master プッシュ
 「アルゴリズムやジェネラティブなど、生成的な設計について」
 
 &nbsp;  
----  
 &nbsp;  
 
 ## 先行研究  
@@ -27,7 +26,6 @@ git push origin master プッシュ
 パトリックシューマッハ
 
 &nbsp;  
----  
 &nbsp;  
 
 ## 卒論から卒制に向けた流れ  
@@ -54,7 +52,6 @@ git push origin master プッシュ
 <-- ここまで卒制 -->  
 
 &nbsp;  
----  
 &nbsp;  
 
 ##  ジェネ系の洗い出しより  

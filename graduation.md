@@ -57,7 +57,7 @@ git push origin master プッシュ
 ##  ジェネ系資料の洗い出しより  
 &nbsp;
 
-- アルゴリズミック・デザイン （日本建築学会 編）  
+- ##### アルゴリズミック・デザイン （日本建築学会 編）  
   - 渡辺誠  
     - 「アルゴリズミックデザイン」とは、要求される課題を解くためのアルゴリズムを用い、解答として形態や構成を生成する、設計手法である  
     - 「生成」とは、アルゴリズム→プログラムを通じて「間接的に」成果物を「生み出す」  
@@ -103,20 +103,44 @@ git push origin master プッシュ
 &nbsp;
 &nbsp;
 
-- Rhinoceros add-on Forum  
+- ##### Rhinoceros add-on Forum  
   - [kangaroo (physic sim)](http://www.grasshopper3d.com/group/kangaroo)  
     - hoge
   - [millipdede (optimization)](http://www.grasshopper3d.com/group/millipede)  
     - hoge
-- shape optimization tech by autodesk  
+- ##### shape optimization tech by autodesk  
   - [what is](https://www.autodesk.com/solutions/generative-design)  
     - [test (Fusion360)](https://www.youtube.com/watch?v=ItiezmZg5cY)  
 
 &nbsp;
 
 ## 理論、アルゴリズムの検討
-- any シリーズ  
+- ##### any シリーズ  
   - 形態と領域 （リン #5）  
+    - バロック、ライプニッツ、襞 // これについては西洋哲学史（熊野純彦）に詳しいとのこと飯島先生より  
+    - ジェネレーションX、サイバーカルチャ  
+    - コンピュータのよる新しい媒体、マテリアル  
+      - モデリングクレイ // いわゆるZbrush系  
+      - リキッドメタル // いわゆる流体  
+      - パーティクルクラウズ // いわゆる群、のちにSwarm  
+    - 生命の躍動性は、時間軸にのる  
+    - カント的な、部分と全体  
+    - ニュータウンは、米英仏独etc...どれも同じ  
+    - 多様性  
+      - 特異、新奇ではなく、差異化された連続的な列  
+    - 器官主義
+      - 差異の生成  
+      - 非ダーウィン的ネットワーク、内的束縛  
+      - 成長と形態（ダーミー・トムソン 1917）  
+        - 海老のグリッドの変化により、環境とその個体の対応を示した  
+        - 同様なことは鳥にも言える  
+    - 均衡と安定  
+    - 粒子モデリング  
+      - アトラクタ、力により、全システムが変形。流状媒体  
+    - 回避すべき2点  
+      - メカニズムと反復  
+      - 単一組織  
+    - 局所では差異化、つまり建築では個別化、全体つまり都市では連続  
 
   - 身体から流状体へ （リン #6）  
     - 動的で多様な変化に富んだ身体、組織化されたシステムとしての身体  
@@ -152,5 +176,5 @@ git push origin master プッシュ
   - バイオ・タイム （リン #8）  
   - サーフェイスの効果 （リン #9）  
 
-- Parametrism  
+- ##### Parametrism  
   - hogehoge

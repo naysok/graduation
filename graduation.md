@@ -111,7 +111,7 @@ git push origin master プッシュ
 - ##### shape optimization tech by autodesk  
   - [what is](https://www.autodesk.com/solutions/generative-design)  
     - Fusion360による解析及び最適化  
-    <iframe src="https://www.youtube.com/embed/ItiezmZg5cY?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/ItiezmZg5cY?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>  
     &nbsp;
     ![test (Fusion360)](photo/Facade.jpg)  
 

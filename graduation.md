@@ -111,7 +111,8 @@ git push origin master プッシュ
 - ##### shape optimization tech by autodesk  
   - [what is](https://www.autodesk.com/solutions/generative-design)  
     - Fusion360による解析及び最適化  
-    ![test mov](photo/Fusion360-Low.mp4)  
+    [![](http://img.youtube.com/vi/ItiezmZg5cY/0.jpg)](https://www.youtube.com/watch?v=ItiezmZg5cY)  
+    &nbsp;
     ![test (Fusion360)](Photo/Facade.jpg)  
 
 &nbsp;
@@ -179,4 +180,12 @@ git push origin master プッシュ
   - サーフェイスの効果 （リン #9）  
 
 - ##### Parametrism  
-  - hogehoge
+  - hogehoge  
+
+
+## メモ  
+- 「形の合成に関するノート」クリストファー・アレクザンダー  
+- 設計の設計、メタ設計  
+- 内在する潜在するアーキテクチャ  
+- 建築も全体を構成しているも含めて、1つのネットワーク的な構造
+- 「ネットワーク・プラクティス」山口隆  

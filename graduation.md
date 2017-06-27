@@ -113,7 +113,7 @@ git push origin master プッシュ
     - Fusion360による解析及び最適化  
     [![](http://img.youtube.com/vi/ItiezmZg5cY/0.jpg)](https://www.youtube.com/watch?v=ItiezmZg5cY)  
     &nbsp;
-    ![test (Fusion360)](Photo/Facade.jpg)  
+    ![test (Fusion360)](photo/Facade.jpg)  
 
 &nbsp;
 

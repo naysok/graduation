@@ -14,20 +14,6 @@ git push origin master プッシュ
 「アルゴリズムやジェネラティブなど、生成的な設計について」
 
 &nbsp;  
-&nbsp;  
-
-## 先行研究  
-- ### アルゴリズミック・デザイン （日本建築学会 編）  
-渡辺誠 など  
-
-- ### any シリーズ  
-磯崎新、ピーター・アイゼンマン、グレッグ・リン など  
-// リンのエッセイが載っているのは、#5,6,7,8,9
-- ### パラメトリシズム  
-パトリックシューマッハ
-
-&nbsp;  
-&nbsp;  
 
 ## 卒論から卒制に向けた流れ  
 &nbsp;  
@@ -50,6 +36,18 @@ git push origin master プッシュ
   - 先に起こったリサーチに基づき、 C# 、 C++ もしく Python でツールキット（ライブラリ）化する  
 
 *<-- ここまで卒制 -->*  
+
+&nbsp;  
+&nbsp;  
+## 先行研究として  
+- ### アルゴリズミック・デザイン （日本建築学会 編）  
+渡辺誠 など  
+
+- ### any シリーズ  
+磯崎新、ピーター・アイゼンマン、グレッグ・リン など  
+// リンのエッセイが載っているのは、#5,6,7,8,9
+- ### パラメトリシズム  
+パトリックシューマッハ
 
 &nbsp;  
 &nbsp;  
@@ -111,9 +109,8 @@ git push origin master プッシュ
 - ##### shape optimization tech by autodesk  
   - [what is](https://www.autodesk.com/solutions/generative-design)  
     - Fusion360による解析及び最適化  
-    [![](http://img.youtube.com/vi/ItiezmZg5cY/0.jpg)](https://www.youtube.com/watch?v=ItiezmZg5cY)  
-    &nbsp;
     ![test (Fusion360)](photo/Facade.jpg)  
+    [movie](photo/Fusion360-Low.mp4)  
 
 &nbsp;
 
@@ -185,7 +182,9 @@ git push origin master プッシュ
 
 ## メモ  
 - 「形の合成に関するノート」クリストファー・アレクザンダー  
+- 「ネットワーク・プラクティス」山口隆  
 - 設計の設計、メタ設計  
 - 内在する潜在するアーキテクチャ  
 - 建築も全体を構成しているも含めて、1つのネットワーク的な構造
-- 「ネットワーク・プラクティス」山口隆  
+- どんな設計も、 io における差異でしかなく、アーキテクチャは単一  
+-   

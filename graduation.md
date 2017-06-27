@@ -110,7 +110,9 @@ git push origin master プッシュ
     - hoge
 - ##### shape optimization tech by autodesk  
   - [what is](https://www.autodesk.com/solutions/generative-design)  
-    - [test (Fusion360)](https://www.youtube.com/watch?v=ItiezmZg5cY)  
+    - Fusion360による解析及び最適化  
+    ![test mov](photo/Fusion360-Low.mp4)  
+    ![test (Fusion360)](Photo/Facade.jpg)  
 
 &nbsp;
 

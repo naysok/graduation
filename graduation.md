@@ -33,11 +33,11 @@ Computer Technique Group
 // 1990年代後半から2000年代にかけて、インターネットの発展及び、アーティストのためのプログラミング革命  
 
 アレクセイ・シュルギン  
-「runme.org」
+「runme.org」  
 コンピュータアートのポータルサイト  
 
 ジョン前田  
-「Design By Numbers」 // 後の Processing の原型  
+「Design By Numbers」 // Processing の原型  
 書く、動かす、インタラクトする  
 
 

@@ -52,8 +52,6 @@ yang02
 ![photo](photo/yang02-01.jpg)
 
 
-___
-
 建築設計におけるアルゴリズム的手法の歴史  
 
 1960年代  
@@ -118,7 +116,6 @@ TED等で見ると、松川は、気持ち悪いとかそういうものでは�
 [松川昌平の TED のリンク](https://www.youtube.com/watch?v=tUaNzc2Ht4g)
 
 
-___  
 
 
 3.まとめ  

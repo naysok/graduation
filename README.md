@@ -1,7 +1,7 @@
 naoki yoshioka's graduation paper  
-and
-achievement at hashimoto lab (2017.06-)
+and  
+achievement at hashimoto lab (2017.06-)  
 
-department of environmental design
-faculty of Art and Design
-tama art university
+department of environmental design  
+faculty of art and design  
+tama art university  

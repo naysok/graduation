@@ -15,8 +15,16 @@ ___
 
 アルゴリズムを用いた表現活動の歴史  
 
-1960年代  
+**1960年代**  
 // コンピュータを使った表現活動がおこる  
+
+アイバン・ザザランド  
+「Sketchpad」 (1963)  
+CAD の原型が開発される。のちの PC の広がりや、発展に合わせて1980年代以降に一般化  
+[https://www.youtube.com/watch?v=USyoT_Ha_bA](https://www.youtube.com/watch?v=USyoT_Ha_bA)  
+
+![photo](photo/Sketchpad.png)  
+
 
 川野洋  
 「マルコフ・チェインの図形白黒」「Simulated Color Mosaic」  
@@ -26,23 +34,12 @@ ___
 Computer Technique Group  
 「Computer Design Series」他  
 
-1990年代  
+**1990年代**  
 // Windows95 などが発売  
 
-MIT Media Lab, Tangible Media Group  
-「TANGIBLE BITS」（1997）  
-GUI から TUI  
-
-> Humans have evolved a heightened ability to sense and manipulate the physical world, yet the GUI based on intangible pixels takes little advantage of this capacity. The TUI builds upon our dexterity by embodying digital information in physical space. TUIs expand the affordances of physical objects, surfaces, and spaces so they can support direct engagement with the digital world.
-
-
-![photo](photo/MIT-01.jpg)  
-
-
-2000年代  
+**2000年代**  
 // 1990年代後半から2000年代にかけて、インターネットの発展及び、アーティストのためのプログラミング革命  
 // デジタリズム。デジタル技術から、素材や形式の解放。メタカルチャー、デジタルダダ  
-
 
 アレクセイ・シュルギン  
 「runme.org」  
@@ -52,46 +49,46 @@ GUI から TUI
 「Design By Numbers」 // Processing の原型  
 書く、動かす、インタラクトする  
 
+![photo](photo/DBN.gif)  
 
-2010年  
-// 2000年代後半や2010年以降、詩や美学の追求から、環境のネットワークや人工知能、ロボティクスなどへシフト  
 
-MIT Media Lab, Tangible Media Group  
-「RADICAL ATOMS」（2012）
+**2010年**  
+// 新たなマテリアルや相互の連動によって、情報空間と物理空間を、より近づけていこうという作品が見られる  
+// また詩や美学の追求から、環境ネットワークや人工知能、ロボティクス、マテリアルコンピューティングなどへシフト  
 
-> Radical Atoms takes a leap beyond Tangible Bits by assuming a hypothetical generation of materials that can change form and appearance dynamically, becoming as reconfigurable as pixels on a screen.
-Radical Atoms is a computationally transformable and reconfigurable material that is bidirectionally coupled with an underlying digital model (bits) so that dynamic changes of physical form can be reflected in digital states in real time, and vice versa.
-Radical Atoms is the future material that can transform their shape, conform to constraints, and inform the users of their affordances. Radical Atoms is a vision for the future of human-material interaction, in which all digital information has a physical manifestation so that we can interact directly with it.
-We no longer think of designing the interface, but rather of the interface itself as material. We may call it “Material User Interface (MUI).”
+Achim Menges Architect, Oliver David Krieg , Steffen Reichert  
+「HygroSkin-Meteorosensitive Pavilion」（2013）  
+Material Computing, Active Material  
+[http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert](http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert)
 
-![photo](photo/MIT-02.jpg)
+![photo](photo/Hygroskin-01.jpg)  
+![photo](photo/Hygroskin-02.jpg)  
+
+
+Christophe Guberan  
+「Active Shoes」（2015）  
+
+4D print, Active Material, マテリアルコンピューティング  
+[http://www.christopheguberan.ch/Active-Shoes](http://www.christopheguberan.ch/Active-Shoes)
+
+![photo](photo/Active-Shoes-01.jpg)  
 
 
 yang02  
-「SEMI-SENSELESS DRAWING MODULES」    
+「SEMI-SENSELESS DRAWING MODULES」（2014）  
 センシングされたデータに干渉されるドローイングマシン  
 現実空間をセンシングし、情報空間で処理しドローイング、そのドローイングの様子を見る人間をセンシングする、これが繰り返され、現実空間と情報空間のフィードバックループする構造である。  
 
->復数のモジュールがレールを左右に移動し、吊るされたペンが巻取り機によって上下運動を行い、壁面に抽象的な線を描画していく。レール上でモジュール同士が衝突すると、お互いそれまでとは逆方向に動き出す。上下の可動範囲は展示空間の人の多さや騒音量、その日の気温、湿度といった環境のコンディションによって、時間と共にゆるやかに変化していく。そうして描画機たちが自らが置かれる場と関係性を持ちながら、長い時間をかけて一つの巨大な抽象画を生成する。 抽象表現主義の多くの画家たちは自身の感情を表現し、行為の痕跡をキャンバスに定着させたと言われている。本作では環境の変化が画家の内面性に働きかけ、描く絵の質に影響を与えるとし、外界の状況をマシンの動き方に反映させることで、抽象画家そのものをシュミレートすることを試みた。画家の感情を左右する要因を取り入れることで、マシンによる表現はより豊かになりえるのだろうか。  
+> 復数のモジュールがレールを左右に移動し、吊るされたペンが巻取り機によって上下運動を行い、壁面に抽象的な線を描画していく。レール上でモジュール同士が衝突すると、お互いそれまでとは逆方向に動き出す。上下の可動範囲は展示空間の人の多さや騒音量、その日の気温、湿度といった環境のコンディションによって、時間と共にゆるやかに変化していく。そうして描画機たちが自らが置かれる場と関係性を持ちながら、長い時間をかけて一つの巨大な抽象画を生成する。 抽象表現主義の多くの画家たちは自身の感情を表現し、行為の痕跡をキャンバスに定着させたと言われている。本作では環境の変化が画家の内面性に働きかけ、描く絵の質に影響を与えるとし、外界の状況をマシンの動き方に反映させることで、抽象画家そのものをシュミレートすることを試みた。画家の感情を左右する要因を取り入れることで、マシンによる表現はより豊かになりえるのだろうか。  
 
-![photo](photo/yang02-01.jpg)
+![photo](photo/yang02-01.jpg)  
 
 
 ___
 
 建築設計におけるアルゴリズム的手法の歴史  
 
-1960年代  
-
-アイバン・ザザランド  
-「Sketchpad」  
-CAD の原型の開発。のちの PC の広がり、発展に合わせて1980年代以降に一般化  
-
-![photo](photo/Sketchpad.png)  
-[https://www.youtube.com/watch?v=USyoT_Ha_bA](https://www.youtube.com/watch?v=USyoT_Ha_bA)
-
-
-1990年代  
+**1990年代**  
 // Any 会議が開かれたのもこの10年間  
 
     Any 会議  
@@ -116,13 +113,13 @@ CAD の原型の開発。のちの PC の広がり、発展に合わせて1980�
 
 
 
-2000年代  
+**2000年代**  
 
 渡辺誠  
 「飯田橋駅」  
 誘導都市という概念を掲げ、コンピュータ上で生成されたカタチを、解析をかけるなどで評価をした。  
 
->誘導都市の基本的な構造は、おおむね次のようになっている。（これとは違うタイプのものもあるが）  
+> 誘導都市の基本的な構造は、おおむね次のようになっている。（これとは違うタイプのものもあるが）  
 １－「価値基準」  
 ２－「評価プログラム」  
 ３－「発生プログラム」  
@@ -137,18 +134,18 @@ double Negatives Architecture
 現実空間のセンシングされた複数の情報が、仮想（情報）空間上にへ送られそこで、インタラクティブな構造物を生成される。  
 これについては、従来の、人間と建築との関係性では、まず建築があって、その上で人間が自由に振る舞うので、現実のものとは少し違うといえる。  
 
->Corpora in Si(gh)te」では、YCAMを中心とした敷地全域 [館内、中央公園] に、多数のセンサーを付設したメッシュネットワークを形成し、リアルタイムの環境情報 [気温、明るさ、風向、音・ノイズetc.] を広範囲に収集・集積していきます。そのデータ解析をもとに、特殊な結節法則によって構造化される不可視の建築が、リアルタイムプロセッシングによって、館内・野外に生体のように成長または減退しながら生成されていくというプロジェクトです。  
+> 「Corpora in Si(gh)te」では、YCAMを中心とした敷地全域 [館内、中央公園] に、多数のセンサーを付設したメッシュネットワークを形成し、リアルタイムの環境情報 [気温、明るさ、風向、音・ノイズetc.] を広範囲に収集・集積していきます。そのデータ解析をもとに、特殊な結節法則によって構造化される不可視の建築が、リアルタイムプロセッシングによって、館内・野外に生体のように成長または減退しながら生成されていくというプロジェクトです。  
 
 
->生成ルール  
-Corporaの生成ルールは、セルラオートマトン、ライフゲームなどの方法や思考をベースにしています。構造結節点は、各環境情報 (風に対する抵抗による方向、温度の高低による高さ方向の角度、明るさによる平面的な広がり、音・ノイズの大小による存在確立) によって変化させています。 同時に周囲との構造結節点を捉え、過密、過疎、自立の可能／不可などのケースを局所的に分析・判断し、部分が自己複製を行ったり、反対に自滅したりします。
+> 生成ルール  
+Corpora の生成ルールは、セルラオートマトン、ライフゲームなどの方法や思考をベースにしています。構造結節点は、各環境情報 (風に対する抵抗による方向、温度の高低による高さ方向の角度、明るさによる平面的な広がり、音・ノイズの大小による存在確立) によって変化させています。 同時に周囲との構造結節点を捉え、過密、過疎、自立の可能／不可などのケースを局所的に分析・判断し、部分が自己複製を行ったり、反対に自滅したりします。
 
 ![photo](photo/dNA-Corpora-01.jpg)  
 
 
 
 
-2010年代  
+**2010年代**  
 
 松川昌平  
 遺伝的アルゴリズムによる椅子  
@@ -173,7 +170,7 @@ CTG 、ザザランドの時代のコンピュータは、まだまだとても�
 
 渡辺、 dNA の時代になると、一定以上のマシンパワーがあり、解析であったり、現実空間から情報空間へデータを送ることだったりのコンピュータの操作が行われている。コンピュータを使ってこそできるようなものに近づいているように思える。  
 
-yang02 、松川の時代になると、技術的な障壁は少なくなり、情報空間と現実空間の間でデータを介したフィードバックループや、遺伝的アルゴリズムでの形態最適化のようなことができるようになる。コンピュータがなければ、できないような作品である。  
+Christophe Guberan 、yang02 、松川の時代になると、技術的な障壁は少なくなり、情報空間と現実空間の間でデータを介したフィードバックループや、遺伝的アルゴリズムでの形態最適化のようなことができるようになる。コンピュータがなければ、できないような作品である。  
 
 
 最初の章であげた、良いもののその理由はその意味は、というものは、1990年代に盛り上がり、デリダや、ドゥルーズ、ライプニッツなど哲学思考をも巻き込んで進もうとしていた。しかし、デリダの脱構築などの概念を、（（全てはそうであるわけではないが）表象的な面で捉えて、または必要な一面だけを拝借して）建築設計や建築批評に引用したところで、哲学の側では論の発展には繋がらず、建築の側でも結局のところただ単に建築をうまく擁護しているように見せれればという感じでうまくいかずに、21世紀に入る頃には下火になったようだ。  
@@ -216,4 +213,5 @@ ___
 
 
 
-<!-- 最終更新 171004 -->
+最終更新  
+171010

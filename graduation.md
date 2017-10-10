@@ -56,15 +56,6 @@ Computer Technique Group
 // 新たなマテリアルや相互の連動によって、情報空間と物理空間を、より近づけていこうという作品が見られる  
 // また詩や美学の追求から、環境ネットワークや人工知能、ロボティクス、マテリアルコンピューティングなどへシフト  
 
-Achim Menges Architect, Oliver David Krieg , Steffen Reichert  
-「HygroSkin-Meteorosensitive Pavilion」（2013）  
-Material Computing, Active Material  
-[http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert](http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert)
-
-![photo](photo/Hygroskin-01.jpg)  
-![photo](photo/Hygroskin-02.jpg)  
-
-
 Christophe Guberan  
 「Active Shoes」（2015）  
 
@@ -153,11 +144,21 @@ Corpora の生成ルールは、セルラオートマトン、ライフゲーム
 TED等で見ると、松川は、気持ち悪いとかそういうものではなくて、ルールに則ったもの良しとしているように思える。  
 
 これについて久保田先生にヒアリングしたところ（久保田先生は、松川とアルゴリズムを用いた表現活動について意見を交わしたことがあるとのこと）、松川は、自分は凡人であるので、まずは起こりうる可能性の列挙をすることを考えている、と言っているという。  
-また、松川昌平＋慶応SFC松川研によるプリズミックギャラリーでの展示、「ARKHITEKTOME／アルキテクトーム 2015」では、生成された住宅が、コストや構造合理性、動線計画といった値によって評価され、それを親として遺伝的に評価値の高い住宅を作っていた。
-これらを見ても、松川は、絵や美としてのゴールではなく、数値として判断できるところを主として、研究をしているように見える。
+また、松川昌平＋慶応SFC松川研によるプリズミックギャラリーでの展示、「ARKHITEKTOME／アルキテクトーム 2015」では、生成された住宅が、コストや構造合理性、動線計画といった値によって評価され、それを親として遺伝的に評価値の高い住宅を作っていた。  
+これらを見ても、松川は、絵や美としてのゴールではなく、数値として判断できるところを主として、研究をしているように見える。  
+TED（[https://www.youtube.com/watch?v=tUaNzc2Ht4g](https://www.youtube.com/watch?v=tUaNzc2Ht4g)）  
 
 ![photo](photo/Matsukawa-01.png)  
-[松川昌平の TED](https://www.youtube.com/watch?v=tUaNzc2Ht4g)
+
+
+Achim Menges Architect, Oliver David Krieg , Steffen Reichert  
+「HygroSkin-Meteorosensitive Pavilion」（2013）  
+Material Computing, Active Material  
+[http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert](http://www.archdaily.com/424911/hygroskin-meteorosensitive-pavilion-achim-menges-architect-in-collaboration-with-oliver-david-krieg-and-steffen-reichert)
+
+![photo](photo/Hygroskin-01.jpg)  
+![photo](photo/Hygroskin-02.jpg)  
+
 
 
 ___
@@ -170,7 +171,7 @@ CTG 、ザザランドの時代のコンピュータは、まだまだとても�
 
 渡辺、 dNA の時代になると、一定以上のマシンパワーがあり、解析であったり、現実空間から情報空間へデータを送ることだったりのコンピュータの操作が行われている。コンピュータを使ってこそできるようなものに近づいているように思える。  
 
-Christophe Guberan 、yang02 、松川の時代になると、技術的な障壁は少なくなり、情報空間と現実空間の間でデータを介したフィードバックループや、遺伝的アルゴリズムでの形態最適化のようなことができるようになる。コンピュータがなければ、できないような作品である。  
+Achim Menges 、yang02 、松川の時代になると、技術的な障壁は少なくなり、情報空間と現実空間の間でデータを介したフィードバックループや、遺伝的アルゴリズムでの形態最適化のようなことができるようになる。コンピュータがなければ、できないような作品である。  
 
 
 最初の章であげた、良いもののその理由はその意味は、というものは、1990年代に盛り上がり、デリダや、ドゥルーズ、ライプニッツなど哲学思考をも巻き込んで進もうとしていた。しかし、デリダの脱構築などの概念を、（（全てはそうであるわけではないが）表象的な面で捉えて、または必要な一面だけを拝借して）建築設計や建築批評に引用したところで、哲学の側では論の発展には繋がらず、建築の側でも結局のところただ単に建築をうまく擁護しているように見せれればという感じでうまくいかずに、21世紀に入る頃には下火になったようだ。  

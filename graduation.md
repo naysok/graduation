@@ -1,6 +1,6 @@
 ### アルゴリズミックデザインと、設計手法について  
 
-1.はじめに  
+#### 1.はじめに  
 
 コンピュータの上で、アルゴリズムを組むことでカタチを作る、いわゆるアルゴリズミックデザインに興味を持って制作に取り組んできた。アルゴリズムを組むこととは、構成則を指定し、部分部分を拘束していくことである。目指すカタチに向かってパズルのように組み上げていく作業は、できた時に心地よいので私は好きだ。逆に、これは不便なこともあり、こんな大きさでこんな感じの曲線でというように、と、手元の手帳と鉛筆に手遊びのように書き進めることができない。  
 何かを目指してアルゴリズムを組む時に、私は今進めている手順が正しいものであるかということに気を配る。それと同時に、目指しているカタチが本当に良いものなのだろうか、と不安になる。  
@@ -11,7 +11,7 @@
 ___
 
 
-2.事例の調査  
+#### 2.事例の調査  
 
 アルゴリズムを用いた表現活動の歴史  
 
@@ -29,6 +29,16 @@ Computer Technique Group
 1990年代  
 // Windows95 などが発売  
 
+MIT Media Lab, Tangible Media Group  
+「TANGIBLE BITS」（1997）  
+GUI から TUI  
+
+> Humans have evolved a heightened ability to sense and manipulate the physical world, yet the GUI based on intangible pixels takes little advantage of this capacity. The TUI builds upon our dexterity by embodying digital information in physical space. TUIs expand the affordances of physical objects, surfaces, and spaces so they can support direct engagement with the digital world.
+
+
+![photo](photo/MIT-01.jpg)  
+
+
 2000年代  
 // 1990年代後半から2000年代にかけて、インターネットの発展及び、アーティストのためのプログラミング革命  
 // デジタリズム。デジタル技術から、素材や形式の解放。メタカルチャー、デジタルダダ  
@@ -45,6 +55,17 @@ Computer Technique Group
 
 2010年  
 // 2000年代後半や2010年以降、詩や美学の追求から、環境のネットワークや人工知能、ロボティクスなどへシフト  
+
+MIT Media Lab, Tangible Media Group  
+「RADICAL ATOMS」（2012）
+
+> Radical Atoms takes a leap beyond Tangible Bits by assuming a hypothetical generation of materials that can change form and appearance dynamically, becoming as reconfigurable as pixels on a screen.
+Radical Atoms is a computationally transformable and reconfigurable material that is bidirectionally coupled with an underlying digital model (bits) so that dynamic changes of physical form can be reflected in digital states in real time, and vice versa.
+Radical Atoms is the future material that can transform their shape, conform to constraints, and inform the users of their affordances. Radical Atoms is a vision for the future of human-material interaction, in which all digital information has a physical manifestation so that we can interact directly with it.
+We no longer think of designing the interface, but rather of the interface itself as material. We may call it “Material User Interface (MUI).”
+
+![photo](photo/MIT-02.jpg)
+
 
 yang02  
 「SEMI-SENSELESS DRAWING MODULES」    
@@ -144,7 +165,7 @@ TED等で見ると、松川は、気持ち悪いとかそういうものでは�
 
 ___
 
-3.まとめ  
+#### 3.まとめ  
 
 CTG 、ザザランドの時代のコンピュータは、まだまだとてもパワーが弱く、作業を楽にするためにコンピュータを使おうという次元ではなく、特に、 CTG は、日本IBM所有の大型計算機やプロッターを夜間に借りて使うしかないという状態であった。この時期の作品は、そこまで複雑ではなく、手の延長、場合によっては手にも劣る程度である。  
 

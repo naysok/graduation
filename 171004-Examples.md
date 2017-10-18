@@ -114,6 +114,15 @@ Shigeru Ban
 [http://www.shigerubanarchitects.com/works/p31_IleSeguin/index.html](http://www.shigerubanarchitects.com/works/p31_IleSeguin/index.html)  
 
 
+### Bund Finance Centre  
+2017  
+Thomas Heatherwick
+
+moving veil  
+
+![photo](photo/Heatherwick-01.jpg)
+[http://www.heatherwick.com/projects/buildings/bund-finance-centre/](http://www.heatherwick.com/projects/buildings/bund-finance-centre/)
+
 
 ---  
 
@@ -232,9 +241,60 @@ Active Material
 
 
 
-
+---
 
 
 ### ハシモト  
 
 ##### MF  
+
+雨の中、裸足で踊りたい  
+裸足=痛い  
+雨に濡れる  
+
+踊りにも歌詞大事  
+歌詞を手で書いてみる  
+身体化  
+
+候補曲  
+- 「banka」 野田洋次郎 （[https://www.youtube.com/watch?v=uJViETJ4mKg)](https://www.youtube.com/watch?v=uJViETJ4mKg)）  
+- 「砂金」黒木渚 （[https://www.youtube.com/watch?v=Af5K-sgXZ_I](https://www.youtube.com/watch?v=Af5K-sgXZ_I)）  
+- amazarashi  
+
+歌詞  
+曲として共感できるか  
+踊りをつけやすいか  
+
+video 作品 + ぞの場で  
+video は一発撮り?  
+
+rain room （random international）  
+セルゲイ・ポルーニン  
+
+
+##### MN  
+
+ガンバスの側面にミラー  
+それを芝生の上に置くと厚みが融ける  
+
+ポスターは厚みがない  
+絵画は厚みがある  
+
+非ホワイトキューブ  
+
+絵の置かれ方、空間性  
+
+
+##### YK
+
+鑓温泉  
+
+ジェットバスなどは不要  
+非レジャー施設  
+
+純粋な湯、湯の楽しみ  
+
+回転や売り上げ重視のレジャー施設NG  
+遊びに X  
+落ち着ける O  
+

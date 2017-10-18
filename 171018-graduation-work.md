@@ -1,0 +1,1 @@
+卒論（[graduaton.md](../graduation.md)）と

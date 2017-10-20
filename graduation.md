@@ -232,11 +232,12 @@ ___
 
 参考文献  
 
-久保田晃弘「コンピュータアートの今日的展開」（20世紀コンピュータアートの奇跡と展望展カタログ 多摩美術大学美術館 2006年）  
-砂山太一「デジタルファブリケーションを有効化するための5ヵ条」（10+1 webサイト [http://10plus1.jp/monthly/2017/05/issue-03.php](http://10plus1.jp/monthly/2017/05/issue-03.php)）  
-山本一成「人工知能はどのようにして『名人』を超えたのか？」（ダイヤモンド社 2017年）  
-久保田晃弘「遙かなる他者のためのデザイン - 久保田晃弘の思索と実装」(BNN新社 2017年)  
-磯崎新/浅田彰 監修「Anywise 知の諸問題」（NTT出版 1999年）  
+- 久保田晃弘「コンピュータアートの今日的展開」（20世紀コンピュータアートの奇跡と展望展カタログ 多摩美術大学美術館 2006年）  
+- 砂山太一「デジタルファブリケーションを有効化するための5ヵ条」（10+1 webサイト [http://10plus1.jp/monthly/2017/05/issue-03.php](http://10plus1.jp/monthly/2017/05/issue-03.php)）  
+- 山本一成「人工知能はどのようにして『名人』を超えたのか？」（ダイヤモンド社 2017年）  
+- 久保田晃弘「遙かなる他者のためのデザイン - 久保田晃弘の思索と実装」(BNN新社 2017年)  
+- 磯崎新/浅田彰 監修「Anywise 知の諸問題」（NTT出版 1999年）  
+- CAD イノベーションの歴史（autodesk ウェブサイト[https://www.autodesk.co.jp/campaigns/inspired-by-autocad/cad-innovation](https://www.autodesk.co.jp/campaigns/inspired-by-autocad/cad-innovation)）
 
 
 

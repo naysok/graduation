@@ -16,14 +16,19 @@ ___
 アルゴリズムを用いた表現活動の歴史  
 
 **1960年代**  
-// コンピュータを使った表現活動がおこる  
+// コンピュータの活用が始まり、コンピュータを使った表現活動がおこりはじめる  
+
+Patrick J. Hanratty  
+「Design Automated by Computer（DAC）」(1961)  
+General Motors 研究所に務める Hanratty 博士（のちに、CAD の父、と呼ばれるようになる）により、CAD の原型となるものが開発された。  
 
 アイバン・ザザランド  
 「Sketchpad」 (1963)  
-CAD の原型が開発される。のちの PC の広がりや、発展に合わせて1980年代以降に一般化  
+ペンのような入力ツールを持つ、 CAD が開発される。  
 [https://www.youtube.com/watch?v=USyoT_Ha_bA](https://www.youtube.com/watch?v=USyoT_Ha_bA)  
 
 ![photo](photo/Sketchpad.png)  
+
 
 
 川野洋  
@@ -34,8 +39,23 @@ CAD の原型が開発される。のちの PC の広がりや、発展に合わ
 Computer Technique Group  
 「Computer Design Series」他  
 
+**1970年代**  
+// 1977年、世界で最初の3D CAD「CATIA」が発売  
+
+
+**1980年代**  
+// 1982年、Autodesk 設立、AutoCAD のリリース  
+
+Steven Lisberger（監督）  
+「Tron」(1982)  
+CG を用いて作られた最初の映画。この映画のために、Ken Perlin によって、パーリンノイズのアルゴリズムの開発された。  
+
+![photo](photo/Tron-01.jpg)
+
+
 **1990年代**  
-// Windows95 などが発売  
+// Windows95 発売  
+
 
 **2000年代**  
 // 1990年代後半から2000年代にかけて、インターネットの発展及び、アーティストのためのプログラミング革命  
@@ -221,4 +241,4 @@ ___
 
 
 最終更新  
-171011
+171020

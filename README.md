@@ -3,7 +3,7 @@ and
 achievement at hashimoto lab (2017.06 - 2017.12)  
 
 text : graduation.md (WIP)  
-works : 171229.md  
+works : 171220.md  
 
 
 department of environmental design  
